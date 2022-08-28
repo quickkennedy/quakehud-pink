@@ -45,7 +45,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
-		"xpos"				"170"
+		"xpos"				"125"
 		"ypos"				"-25"
 		"zpos"				"5"
 		"wide"				"125"

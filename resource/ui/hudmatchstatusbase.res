@@ -272,8 +272,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"0"
-		"ypos"				"0"	
+		"xpos"				"c-110"
+		"ypos"				"-33"
 		"zpos"				"4"
 		"wide"				"f0"
 		"tall"				"480"
@@ -286,12 +286,6 @@
 		"NegativeColor"			"Garm3nHUDRed"
 		"delta_lifetime"		"0.8"
 		"delta_item_font"		"Garm3nFontSmaller"
-		
-		if_match
-		{
-			"xpos"				"c-110"
-			"ypos"				"-33"
-		}
 		
 		"TimePanelValue"
 		{
@@ -306,13 +300,8 @@
 			"tall"			"32"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
-			
-			if_match
-			{
-				"textAlignment"	"center"
-			}
 		}
 	}
 	
