@@ -2533,6 +2533,445 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		surface6
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"6"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface8
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"8"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+				surface8shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"8"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow" "1"
+			}
+		}
+				surface9
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"9"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface10
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}		
+		surface10shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow" "1"
+			}
+		}
+		surface11
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"11"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface12
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"12"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface13
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"13"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface14
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"14"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface14shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"14"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface15
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"15"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface15shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"15"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface16
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"16"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface18
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+				surface18shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow" 	"1"
+			}
+		}
+		surface18outline
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surface20
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"20"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface20outline
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"20"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+						surface20shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow" 	"1"
+			}
+		}
+		surface16shadow
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"16"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
+		
+		surface23
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"23"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface23outline
+		{
+			"1"
+			{
+				"name"			"Roboto"
+				"tall"			"23"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surface24
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface24shadow
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface26
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"26"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface28
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface32
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface36
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"36"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface48
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"48"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surface60
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"60"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surfaceUber
+		{
+			"1"
+			{
+				"name"			"Roboto Bold"
+				"tall"			"60"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
+		surfaceNumbers14
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"14"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surfaceNumbers16
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"16"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surfaceNumbers18
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
+		surfaceNumbers18outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surfaceNumbers20outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"20"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surfaceNumbers23outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"23"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surfaceNumbers28
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
@@ -2601,6 +3040,21 @@ Scheme
 		{
 			"font" "resource/fonts/boombox2.ttf"
 			"name" "boombox2"
+		}
+		"42"
+		{
+			"font" "resource/fonts/Surface.otf"
+			"name" "Surface-Medium"
+		}
+		"43"
+		{
+			"font" "resource/fonts/Roboto-Bold.ttf"
+			"name" "Roboto Bold"
+		}
+		"44"
+		{
+			"font" "resource/fonts/Roboto.ttf"
+			"name" "Roboto"
 		}
 	}
 }

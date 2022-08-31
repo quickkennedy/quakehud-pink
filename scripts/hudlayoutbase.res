@@ -1402,7 +1402,7 @@
 		"ypos"					"rs1-8"
 		"zpos"					"3"
 		"wide"					"f0"
-		"tall"					"19"
+		"tall"					"32"
 	}
 	
 	"QueueHUDStatus"
